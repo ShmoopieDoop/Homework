@@ -1,0 +1,15 @@
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/bin/Debug/net5.0/homework-hanuka.deps.json
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/bin/Debug/net5.0/homework-hanuka.runtimeconfig.json
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/bin/Debug/net5.0/homework-hanuka.runtimeconfig.dev.json
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/bin/Debug/net5.0/homework-hanuka.dll
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/bin/Debug/net5.0/ref/homework-hanuka.dll
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/bin/Debug/net5.0/homework-hanuka.pdb
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.csproj.AssemblyReference.cache
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.AssemblyInfoInputs.cache
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.AssemblyInfo.cs
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.csproj.CoreCompileInputs.cache
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.dll
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/ref/homework-hanuka.dll
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.pdb
+/Users/tom/VSC projects/C#/Homework/homework-hanuka/obj/Debug/net5.0/homework-hanuka.genruntimeconfig.cache

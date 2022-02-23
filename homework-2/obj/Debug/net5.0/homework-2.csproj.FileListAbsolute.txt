@@ -1,0 +1,15 @@
+/Users/tom/VSC projects/C#/Homework/homework-2/bin/Debug/net5.0/homework-2.deps.json
+/Users/tom/VSC projects/C#/Homework/homework-2/bin/Debug/net5.0/homework-2.runtimeconfig.json
+/Users/tom/VSC projects/C#/Homework/homework-2/bin/Debug/net5.0/homework-2.runtimeconfig.dev.json
+/Users/tom/VSC projects/C#/Homework/homework-2/bin/Debug/net5.0/homework-2.dll
+/Users/tom/VSC projects/C#/Homework/homework-2/bin/Debug/net5.0/ref/homework-2.dll
+/Users/tom/VSC projects/C#/Homework/homework-2/bin/Debug/net5.0/homework-2.pdb
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.csproj.AssemblyReference.cache
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.AssemblyInfoInputs.cache
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.AssemblyInfo.cs
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.csproj.CoreCompileInputs.cache
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.dll
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/ref/homework-2.dll
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.pdb
+/Users/tom/VSC projects/C#/Homework/homework-2/obj/Debug/net5.0/homework-2.genruntimeconfig.cache
